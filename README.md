@@ -1,9 +1,9 @@
 # Wine-quality
 Depecting the quality of wine using MACHINE learning models
-#Loading dataset
-# Doing Descriptive Analysis
-# Finding Null values
-# Performing Data Analysis using count plot,KDE plot,Dist plot,Histogram.
+#Loaded the dataset
+# Done Descriptive Analysis
+# Find Null values
+# Performed Data Analysis using count plot,KDE plot,Dist plot,Histogram.
 # Heat Map for expressing Corelation
 # Pair plot
 # violin plt
